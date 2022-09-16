@@ -1,0 +1,25 @@
+body {
+  position: fixed;
+  border: solid;
+  border-color: fuchsia;
+  margin: 2px;
+  height: 400px;
+  width: 390px;
+}
+h1 {
+  color: #6c757d;
+}
+h2,
+h3 {
+  color: #6c757d;
+  font-size: 20px;
+}
+.temp-heading {
+  font-size: 30px;
+}
+h4 {
+  color: fuchsia;
+}
+.search-button {
+  color: fuchsia;
+}
